@@ -44,7 +44,7 @@ Identifying customer vunerability has become a challange and therefore this proj
 
 pip install -r requirements.txt
 
-## RUN
+## Run
 
 python src/train_model.py
 
