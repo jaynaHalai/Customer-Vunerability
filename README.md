@@ -24,3 +24,32 @@ Identifying customer vunerability has become a challange and therefore this proj
 3. Train multiple models
 4. Evaluate and select the best performing model
 5. Deploy the best model
+
+## Dataset
+
+## Models
+
+1. Logistic Regression
+2. Decision Tree Classifier
+3. Random Forest
+
+## Evaluataion:
+
+- Accuracy
+- Precision
+- Recall
+- F1 score
+
+## Installation
+
+pip install -r requirements.txt
+
+## RUN
+
+python src/train_model.py
+
+python src/predict.py
+
+## Author
+
+Jayna Halai
