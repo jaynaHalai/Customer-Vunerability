@@ -52,4 +52,4 @@ python src/predict.py
 
 ## Author
 
-Jayna Halai
+Jayna Halai.
