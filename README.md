@@ -51,3 +51,5 @@ python src/train_model.py
 python src/predict.py
 
 ## Author
+
+Jayna Halai
